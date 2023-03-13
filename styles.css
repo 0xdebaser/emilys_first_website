@@ -3,6 +3,15 @@ body {
 }
 
 h1 {
-  color:black
+  color:black;
   text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#emily-art-1 {
+  width: 300px;
 }
